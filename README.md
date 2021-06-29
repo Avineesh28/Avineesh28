@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Avineesh Sathyakumar**
 
-- ⚡ Fun fact **Caffeine fuelled long coding sessions are my Superpower!**
+- ⚡ Fun fact **Caffeine fuelled long coding sessions is my Superpower!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
