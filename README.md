@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Competitive Coding, Problem Solving, Data Structures and Algorithms**
 
-- 📫 How to reach me **Avineesh Sathyakumar**
+- 📫 How to reach me **avineeshsathyakumar@gmail.com**
 
 - ⚡ Fun fact **Caffeine fuelled long coding sessions is my Superpower!**
 
