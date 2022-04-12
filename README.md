@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avineesh28&label=Profile%20views&color=0e75b6&style=flat" alt="avineesh28" /> </p>
 
-<p align="center"> <a href="https://github-readme-stats.vercel.app/api?username=avineesh28&show_icons=true&locale=eny"><img src="https://github-profile-trophy.vercel.app/?username=avineesh28&column=-1&theme=juicyfresh&margin-h=15" alt="avineesh28" /></a> </p>
+<p align="center"> <a href="https://github-readme-stats.vercel.app/api?username=avineesh28&show_icons=true&locale=eny"><img src="https://github-profile-trophy.vercel.app/?username=avineesh28&column=-1&theme=juicyfresh&margin-h=25" alt="avineesh28" /></a> </p>
 
 - 🌱 I’m currently learning **Back-End Web Dev**
 
