@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github-readme-stats.vercel.app/api?username=avineesh28&show_icons=true&locale=eny"><img src="https://github-profile-trophy.vercel.app/?username=avineesh28&column=-1&theme=juicyfresh&margin-h=25" alt="avineesh28" /></a> </p>
 
-- 🔭 I’m currently working on **Personal Website**
+- 🔭 I’m currently working on my **Personal Website**
 
 - 🌱 I’m currently learning **Backend Web Dev, Figma, React JS**
 
