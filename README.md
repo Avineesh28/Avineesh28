@@ -2,7 +2,7 @@
 <h3 align="center">Java Backend & Cloud Services Architect | Engineer (CSE – IoT) | Enthusiastic About Emerging Technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avineesh28&label=Profile%20views&color=0e75b6&style=flat" alt="avineesh28" /> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=avineesh28&column=-1&theme=onedark&margin-h=25)](https://github.com/avineesh28/github-profile-trophy)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avineesh28&column=-1&theme=juicyfresh&margin-h=25" alt="avineesh28"/></a> </p>
 
 - 🔭 I’m currently working on **Contributing to open-source projects and artificial intelligence–powered application development**
