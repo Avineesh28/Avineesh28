@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avineesh28&column=-1&theme=juicyfresh&margin-h=25" alt="avineesh28"/></a> </p>
 
+
 - 🔭 I’m currently working on **Contributing to open-source projects and artificial intelligence–powered application development**
 
 - 🌱 I’m currently learning **Containerization and intelligent agent building**
