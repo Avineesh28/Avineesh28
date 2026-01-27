@@ -30,8 +30,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avineesh28&show_icons=true&locale=en&layout=compact" alt="avineesh28" /></p>
 
+<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avineesh28&show_icons=true&locale=en" alt="avineesh28" /></p>
 
-
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avineesh28&" alt="avineesh28" /></p>
