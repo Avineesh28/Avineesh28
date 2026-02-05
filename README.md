@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avineesh Sathyakumar</h1>
-<h3 align="center">Java Backend & Cloud Services Architect | Engineer (CSE – IoT) | Enthusiastic About Emerging Technologies</h3>
 
+<h3 align="center">Java Backend & Cloud Services Architect | Engineer (CSE – IoT) | Enthusiastic About Emerging Technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avineesh28&label=Profile%20views&color=0e75b6&style=flat" alt="avineesh28" /> </p>
 
