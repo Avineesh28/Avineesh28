@@ -1,27 +1,51 @@
 
-<h1 align="center">Hi 👋, I'm Avineesh Sathyakumar</h1>
+# Hi 👋, I'm Avineesh Sathyakumar
 
-<h3 align="center">Java Backend & Cloud Services Architect | Engineer (CSE – IoT) | Enthusiastic About Robotics and Agent World Building</h3>
-
+## AI Agent Systems Builder | Backend & Distributed Systems Engineer | Robotics & Intelligent Automation Enthusiast
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avineesh28&label=Profile%20views&color=0e75b6&style=flat" alt="avineesh28" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avineesh28&column=-1&theme=juicyfresh&margin-h=25" alt="avineesh28"/></a> </p>
+---
 
+## 🧠 About Me
 
-- 🔭 I’m currently working on **Contributing to open-source projects and artificial intelligence–powered application development**
+- 🔭 I’m currently building **AI agent systems, automation pipelines, and distributed backend platforms**
+- 🌱 I’m focused on **LLM-powered agent architectures, orchestration systems, and scalable backend design**
+- 👯 I’m looking to collaborate on **multi-agent systems, AI-native applications, and intelligent automation frameworks**
+- 🤝 I’m interested in **building experimental systems with strong engineering communities**
+- 💬 Ask me about **backend systems, distributed architecture, or building production AI agents**
+- 📫 Reach me: **avineeshsathyakumar@gmail.com**
+- ⚡ Fun fact: *Intelligence emerges when simple systems coordinate at scale*
 
-- 🌱 I’m currently learning **Containerization and intelligent agent building**
+---
 
-- 👯 I’m looking to collaborate on **Foundational work on innovative new Ideas and enhancements**
+## 🤖 AI Agents & Systems Projects
 
-- 🤝 I’m looking for help with **Finding a community that backs crazy ideas for a fun development run**
+### 🚀 Cleio — Intelligent Incident Triage & Response System
 
-- 💬 Ask me about **Java Backend services and Project Pitches!**
+Cleio is an AI-powered incident triage platform designed to reduce developer overload by automatically classifying, prioritizing, and responding to incoming system issues.
 
-- 📫 How to reach me **avineeshsathyakumar@gmail.com**
+### Core Architecture
+- Email ingestion via Mail APIs
+- Data cleaning and normalization layer
+- RAG-based knowledge retrieval from Confluence
+- Multi-agent LLM system for classification & summarization
+- Prioritization engine for severity ranking
+- Daily batch summary outputs
 
-- ⚡ Fun fact **Every idea is sane enough if enough insane people work on it together!**
+### Agent Philosophy
+- Specialized agents (not monolithic models)
+- Single-responsibility design per agent
+- Shared structured memory context
+- Retrieval-augmented decision making
+
+### Impact Goals
+- Reduce developer noise
+- Improve incident resolution time
+- Enable proactive triage systems
+
+---
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
