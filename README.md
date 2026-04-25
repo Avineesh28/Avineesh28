@@ -1,11 +1,9 @@
 
-# Hi 👋, I'm Avineesh Sathyakumar
+# echo "Hey There! I'm Avineesh Sathyakumar"
 
 ## AI Agent Systems Builder | Backend & Distributed Systems Engineer | Robotics & Intelligent Automation Enthusiast
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avineesh28&label=Profile%20views&color=0e75b6&style=flat" alt="avineesh28" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avineesh28&column=-1&theme=juicyfresh&margin-h=25" alt="avineesh28"/></a> </p>
 
 ---
 
