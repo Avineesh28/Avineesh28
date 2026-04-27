@@ -20,9 +20,9 @@
 
 ## 🤖 Current Project
 
-### 🚀 Cleio — Intelligent Incident Triage & Response System
+### 🚀 Cleo — Intelligent Incident Triage & Response System
 
-Cleio is an AI-powered incident triage platform designed to reduce developer overload by automatically classifying, prioritizing, and responding to incoming system issues.
+Cleo is an AI-powered incident triage platform designed to reduce developer overload by automatically classifying, prioritizing, and responding to incoming system issues.
 
 #### ⚙️ Core Architecture
 - Email ingestion via Mail APIs  
