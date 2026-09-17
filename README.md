@@ -7,7 +7,6 @@
 
 ---
 
-
 ## 🧠 About Me
 
 - 🔭 I’m currently building **AI agent systems, automation pipelines, and distributed backend platforms**
