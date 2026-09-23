@@ -18,7 +18,6 @@
 
 ---
 
-
 ## 🤖 Current Project
 
 ### 🚀 Cleo — Intelligent Incident Triage & Response System
