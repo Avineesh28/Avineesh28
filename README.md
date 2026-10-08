@@ -1,4 +1,4 @@
-# Hey There 👋🏻! I'm Avineesh Sathyakumar 🎧
+# Avineesh Sathyakumar Checking In! 🎧
 
 ## AI Agent Systems Builder | Backend & Distributed Systems Engineer | Robotics & Intelligent Automation Enthusiast
 
