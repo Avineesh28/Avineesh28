@@ -4,9 +4,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=avineesh28&label=Profile%20views&color=0e75b6&style=flat)
 
----
-
-
 ## 🧠 About Me
 
 - 🔭 I’m currently building **AI agent systems, automation pipelines, and distributed backend platforms**
